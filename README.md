@@ -1,5 +1,3 @@
-# CSE512-Project-Hotspot-Analysis-Template
-
 ### Hot zone analysis
 The task needs to perform a range join operation on a rectangle datasets and a point dataset. For each rectangle, the number of points located within the rectangle will be obtained. The hotter rectangle means that it include more points. 
 
